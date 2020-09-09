@@ -1,0 +1,24 @@
+.main-column{
+position: relative;
+color: white;
+background:transparent;
+display: flex;
+justify-content: center;
+flex-direction: column;
+height: fit-content;
+padding: 8px;
+}
+.icon-container{
+   margin: auto auto;
+    width:100px ;
+    height:100px;
+    
+    margin-bottom: 10px;
+
+}
+.text-block{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+
+}
